@@ -1,3 +1,3 @@
-# React + Wite
+# React + vite
 
-This template provides a minimal setup to get React working in Wite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in vite with HMR and some ESLint rules.
